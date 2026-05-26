@@ -108,7 +108,7 @@ title: "Turquo the Cabbit"
         <div align="center">
         <a href="./pic/turquo/refsheet_cb.png"><img src="pic/turquo/refsheet_cb_thumb.webp" width="100%"></a>
         <figcaption>
-        <a href="https://www.facebook.com/puiidrgonthevelociraptor" target="_blank"><br>@妞龍</a>
+        <a href="https://www.facebook.com/puiidrgonthevelociraptor" target="_blank"><br>🎨妞龍</a>
         </figcaption>
         </div><br>
 
@@ -116,7 +116,7 @@ title: "Turquo the Cabbit"
         <div align="center">
         <a href="./pic/turquo/refsheet_b.png"><img src="pic/turquo/refsheet_b_thumb.webp" width="100%"></a>
         <figcaption>
-        <a href="https://susey3377.wixsite.com/visionalbird" target="_blank"><br>@無鳥</a>
+        <a href="https://susey3377.wixsite.com/visionalbird" target="_blank"><br>🎨無鳥</a>
         </figcaption>
         </div><br>
 
@@ -127,7 +127,15 @@ title: "Turquo the Cabbit"
         <div align="center">
         <a href="./pic/crema/refsheet.png"><img src="pic/crema/refsheet_thumb.webp" width="100%"></a>
         <figcaption>
-        <a href="https://www.facebook.com/hu.mu.737173" target="_blank"><br>@狐睦</a>
+        <a href="https://www.facebook.com/hu.mu.737173" target="_blank"><br>🎨狐睦</a>
+        </figcaption>
+        </div><br>
+
+        <div align="center">
+        <img src="./pic/crema/suit.JPG" width="100%">
+        <figcaption>
+        <a href="https://x.com/eagle_wing0717" target="_blank"><br>🪡Hungry Dog Fur</a>
+        <a href="https://x.com/Dass_a_thickass" target="_blank"><br>📷達斯</a>
         </figcaption>
         </div><br>
         
@@ -137,7 +145,15 @@ title: "Turquo the Cabbit"
         <div align="center">
         <a href="./pic/上官晦璃/上官晦璃.png"><img src="pic/上官晦璃/上官晦璃_thumb.webp" width="100%"></a>
         <figcaption>
-        <a href="https://www.facebook.com/mixdog018" target="_blank"><br>@DOG</a>
+        <a href="https://www.facebook.com/mixdog018" target="_blank"><br>🎨DOG</a>
+        </figcaption>
+        </div><br>
+
+        <div align="center">
+        <img src="./pic/上官晦璃/suit.JPG" width="100%">
+        <figcaption>
+        <a href="https://x.com/Qiuqiu1290" target="_blank"><br>🪡秋秋</a>
+        <a href="https://x.com/VinTheCoyote" target="_blank"><br>📷凡凡</a>
         </figcaption>
         </div><br>
 
