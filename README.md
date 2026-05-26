@@ -134,7 +134,7 @@
         </div><br>
 
         <div align="center">
-        <img src="./pic/crema/suit.JPG" width="100%">
+        <img src="./pic/crema/suit.png" width="100%">
         <figcaption>
         <a href="https://x.com/eagle_wing0717" target="_blank"><br>🪡Hungry Dog Fur</a>
         <a href="https://x.com/Dass_a_thickass" target="_blank"><br>📷達斯</a>
@@ -159,7 +159,7 @@
         </div><br>
 
         <div align="center">
-        <img src="./pic/上官晦璃/suit.JPG" width="100%">
+        <img src="./pic/上官晦璃/suit.png" width="100%">
         <figcaption>
         <a href="https://x.com/Qiuqiu1290" target="_blank"><br>🪡秋秋</a>
         <a href="https://x.com/VinTheCoyote" target="_blank"><br>📷凡凡</a>
