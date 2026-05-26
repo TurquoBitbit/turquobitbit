@@ -132,7 +132,7 @@ title: "Turquo the Cabbit"
         </div><br>
 
         <div align="center">
-        <img src="./pic/crema/suit.png" width="100%">
+        <a href="./pic/crema/suit.png"><img src="pic/crema/suit_thumb.webp" width="100%"></a>
         <figcaption>
         <a href="https://x.com/eagle_wing0717" target="_blank"><br>🪡Hungry Dog Fur</a>
         <a href="https://x.com/Dass_a_thickass" target="_blank"><br>📷達斯</a>
@@ -150,7 +150,7 @@ title: "Turquo the Cabbit"
         </div><br>
 
         <div align="center">
-        <img src="./pic/上官晦璃/suit.png" width="100%">
+        <a href="./pic/上官晦璃/suit.png"><img src="pic/上官晦璃/suit_thumb.webp" width="100%"></a>
         <figcaption>
         <a href="https://x.com/Qiuqiu1290" target="_blank"><br>🪡秋秋</a>
         <a href="https://x.com/VinTheCoyote" target="_blank"><br>📷凡凡</a>
