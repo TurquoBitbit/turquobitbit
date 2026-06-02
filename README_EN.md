@@ -93,6 +93,15 @@ title: "Turquo the Cabbit"
         * Watch any film (blockbuster or indie) that sparks my interest
         * I don't watch horror films, I hate being jump scared<br>
 
+    * Game
+        * [Euro Truck Simulator 2](https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/)
+            * STEAM friend code: 1738426172
+        * [Splatoon 3](https://www.nintendo.com/hk/switch/av5ja/index.html)
+            * NS id: SW-8191-2745-2518
+            <div align="center">
+            <img src="./pic/selfIntro/NS_ID.png" width="20%">
+            </div><br>
+
     * Indexing Investment
         * [Bogleheads Three-fund portfolio](https://www.bogleheads.org/wiki/Three-fund_portfolio)<br>
 
