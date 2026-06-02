@@ -97,6 +97,15 @@ title: "韜光"
     * 電影 
         * 無論商業片冷門片，只要有興趣都看
         * 不看恐怖片，討厭jump scare<br>
+    
+    * 遊戲
+        * [歐洲卡車模擬器2](https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/)
+            * STEAM 好友代碼: 1738426172
+        * [斯普拉頓3](https://www.nintendo.com/hk/switch/av5ja/index.html)
+            * NS id: SW-8191-2745-2518
+            <div align="center">
+            <a href="./pic/selfIntro/NS_ID.png"><img src="pic/selfIntro/NS_ID_thumb.webp" width="20%"></a>
+            </div><br>
 
     * Indexing Investment
         * [Bogleheads Three-fund portfolio](https://www.bogleheads.org/wiki/Three-fund_portfolio)<br>

@@ -99,7 +99,7 @@ title: "Turquo the Cabbit"
         * [Splatoon 3](https://www.nintendo.com/hk/switch/av5ja/index.html)
             * NS id: SW-8191-2745-2518
             <div align="center">
-            <img src="./pic/selfIntro/NS_ID.png" width="20%">
+            <a href="./pic/selfIntro/NS_ID.png"><img src="pic/selfIntro/NS_ID_thumb.webp" width="20%"></a>
             </div><br>
 
     * Indexing Investment
