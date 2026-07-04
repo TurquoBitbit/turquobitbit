@@ -22,6 +22,7 @@ title: "韜光"
 * [Flickr 相簿](https://www.flickr.com/photos/197896838@N03/albums/)
 * [Discord](https://discordapp.com/users/401422083231449098)
 * [Telegram](https://t.me/night5916lan)
+* [QQ:3814095665](https://qm.qq.com/q/9BLVYYOzMA)
 
 ---
 * 涉略
@@ -188,4 +189,5 @@ title: "韜光"
 * [Flickr 相簿](https://www.flickr.com/photos/197896838@N03/albums/)
 * [Discord](https://discordapp.com/users/401422083231449098)
 * [Telegram](https://t.me/night5916lan)
+* [QQ:3814095665](https://qm.qq.com/q/9BLVYYOzMA)
 
