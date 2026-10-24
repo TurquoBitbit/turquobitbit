@@ -30,6 +30,8 @@
             * ~~[NIKKOR Z 85mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_85mmf18s/)~~
             * ~~[NIKKOR Z 50mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_50mmf18s/) (20250818)~~
             * [Nikon Z6III](https://imaging.nikon.com/imaging/lineup/mirrorless/z6_3/) (20251016)<br>
+            * [NIKKOR Z 14-30mm F4 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_14-30mmf4s/) (20260912)<br>
+            * [NIKKOR Z 70-180mm F2.8](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_70-180mmf28/) (20261003)<br>
 
     * Fantasy/Sci-Fi and Wuxia Literature
         * Favorite Series
@@ -77,7 +79,7 @@
         * Currently brewing with [V60 02](https://www.hario.com.tw/?product=v60%e9%80%8f%e6%98%8e02%e6%a8%b9%e8%84%82%e6%bf%be%e6%9d%af)
             * Light to medium Roast
             * Water-to-Coffee Ratio: 1:17
-            * Water Temperature: 87°C
+            * Water Temperature: 92°C
         * Also using an [AeroPress](https://aeropress.com/)
             * My Recipe:
                 1. 16g of beans, ground to near-espresso fineness
