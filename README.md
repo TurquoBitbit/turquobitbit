@@ -34,6 +34,8 @@
             * ~~[NIKKOR Z 85mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_85mmf18s/)~~
             * ~~[NIKKOR Z 50mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_50mmf18s/) (20250818)~~
             * [Nikon Z6III](https://imaging.nikon.com/imaging/lineup/mirrorless/z6_3/) (20251016)<br>
+            * [NIKKOR Z 14-30mm F4 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_14-30mmf4s/) (20260912)<br>
+            * [NIKKOR Z 70-180mm F2.8](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_70-180mmf28/) (20261003)<br>
 
     * 奇幻/科幻文學、武俠小說
         * 最喜歡的幾個系列
@@ -82,7 +84,7 @@
         * 目前使用[V60 02](https://www.hario.com.tw/?product=v60%e9%80%8f%e6%98%8e02%e6%a8%b9%e8%84%82%e6%bf%be%e6%9d%af)沖
             * 淺焙、淺中焙
             * 粉水比1:17
-            * 水溫86度C
+            * 水溫92度C
         * 也玩[愛樂壓](https://aeropress.com/)
             * 我的配方:
                 1. 中深焙豆16克，磨到接近espresso的細度
