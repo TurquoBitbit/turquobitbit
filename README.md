@@ -11,7 +11,7 @@
 </figcaption>
 </div><br>
 
-* [Facebook](https://www.facebook.com/turquoCabbit) {中文}
+* [Facebook](https://www.facebook.com/profile.php?id=61596160365506) {中文}
 * [X](https://twitter.com/Turquobitbit) {ENG}
 * [BSKY](https://bsky.app/profile/turquocabbit.bsky.social) {ENG}
 * [噗浪](https://www.plurk.com/night5916lan) {中文}
@@ -180,7 +180,7 @@
 
 
 ---
-* [Facebook](https://www.facebook.com/turquoCabbit) {中文}
+* [Facebook](https://www.facebook.com/profile.php?id=61596160365506) {中文}
 * [X](https://twitter.com/Turquobitbit) {ENG}
 * [BSKY](https://bsky.app/profile/turquocabbit.bsky.social) {ENG}
 * [噗浪](https://www.plurk.com/night5916lan)

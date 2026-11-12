@@ -7,7 +7,7 @@
 </figcaption>
 </div><br>
 
-* [Facebook](https://www.facebook.com/turquoCabbit) {Chinese}
+* [Facebook](https://www.facebook.com/profile.php?id=61596160365506) {Chinese}
 * [X](https://twitter.com/Turquobitbit) {English}
 * [BSKY](https://bsky.app/profile/turquocabbit.bsky.social) {English}
 * [Plurk](https://www.plurk.com/night5916lan) {Chinese}
@@ -169,7 +169,7 @@
 
 
 ---
-* [Facebook](https://www.facebook.com/turquoCabbit) {Chinese}
+* [Facebook](https://www.facebook.com/profile.php?id=61596160365506) {Chinese}
 * [X](https://twitter.com/Turquobitbit) {English}
 * [BSKY](https://bsky.app/profile/turquocabbit.bsky.social) {English}
 * [Plurk](https://www.plurk.com/night5916lan)
