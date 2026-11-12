@@ -78,7 +78,7 @@ title: "pulexStickerBase"
 
 ### 若有興趣可由以下方式與我聯繫
 * [Telegram](https://t.me/night5916lan)
-* [Facebook](https://www.facebook.com/turquoCabbit)
+* [Facebook](https://www.facebook.com/profile.php?id=61596160365506)
 * [X](https://twitter.com/Turquobitbit)
 * cntsfsgun@gmail.com
 
